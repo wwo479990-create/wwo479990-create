@@ -47,3 +47,7 @@ footer {
     color: white;
     margin-top: 20px;
 }
+footer a {
+    color: #a8329e;
+    text-decoration: none;
+}
